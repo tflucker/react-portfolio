@@ -92,3 +92,26 @@ nav ul li {
 .active {
     font-weight: bolder;
 }
+
+.profilepic {
+    border-radius: 50%;
+    width: 21rem;
+    height: 23rem;
+}
+
+.social {
+    position: absolute;
+    margin-top: 20px;
+    display: flex;
+    bottom: 60px;
+}
+
+.social i {
+    padding-right: 30px;
+    font-size: 25px;
+    color: #919b9c;
+}
+
+.social i :hover {
+    color: #ffffff;
+}
