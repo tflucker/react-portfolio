@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 
 class NavItem extends Component {
-    
+
     render() {
         return (
             <li id={this.props.item}>
