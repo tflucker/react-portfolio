@@ -46,10 +46,6 @@
     --typing-font: 3rem;
 }
 
-* {
-    margin: 0;
-    padding: 0;
-}
 
 body {
     font-family: 'Raleway';
@@ -68,6 +64,11 @@ body {
     padding: 100px;
     background-color: #f4f5f9;
     flex: var(--condiv-flex);
+    text-align: left;
+}
+
+.text-center {
+    text-align: center;
 }
 
 nav {
