@@ -5,7 +5,6 @@ class About extends Component {
         return (
             <div className="condiv">
                 <h1 className="subtopic">About Me</h1>
-                <h4>Hey there, </h4>
                 <h1>I'm Tim Flucker</h1>
                 <h3>Full Stack Web Developer | Senior Specialist</h3>
                 <p>I entered the world of computer programming at my first job after college as a software tester.  From there I started to teach myself how to code in multiple languages such as HTML, CSS, Javascript, Java, SQL, and a few others.  I built this website using React to further solidify my skills and gain experience in a new framework.</p>
