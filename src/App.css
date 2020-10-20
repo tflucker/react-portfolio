@@ -101,13 +101,12 @@ nav ul li {
 }
 
 .social {
-    position: absolute;
     margin-top: 20px;
     display: flex;
     bottom: 60px;
 }
 
-.social i {
+.social a {
     padding-right: 30px;
     font-size: 25px;
     color: #919b9c;
